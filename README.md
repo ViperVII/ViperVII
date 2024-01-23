@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ViperVII
 - 👀 I’m interested in programming 
 - 🌱 I’m currently studying IT, Systems and TPSI at ITT Allievi Sangallo
-- 💞️ I’m looking to collaborate on everythink
 - 📫 How to reach me devisgunnella04@gmail.com
 
 <!---
